@@ -1,4 +1,7 @@
+Flask
 pyTelegramBotAPI
 requests
 httpx
 python-telegram-bot
+python-dotenv
+gunicorn
