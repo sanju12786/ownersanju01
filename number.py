@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 # ================== CONFIG ==================
-BOT_TOKEN = "8769961686:AAEYsUp_NYNxdrw-Ok_ubFzuTNsqKzbjxL8"
+BOT_TOKEN = "8769961686:AAHAG6D8G4z8QOioYyJNka7o-Fw6RpStqgQ"
 ADMIN_IDS = [8616498446, 6162626480, 5574675470]
 API_URL = "https://ftosint.world/api/number"
 API_KEY = "lightnum2info"
