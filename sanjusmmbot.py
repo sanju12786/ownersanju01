@@ -32,7 +32,7 @@ ADMIN_IDS = [
 ]
 
 # Saved to database on FIRST run only. Change later from Admin Panel.
-DEFAULT_API_URL = "https://smmresell.com/api/v2"   # <-- API URL
+DEFAULT_API_URL = "https://smmprice.com/api/v2"   # <-- API URL
 DEFAULT_API_KEY = "PUT_NEW_API_KEY_HERE"           # <-- API KEY
 DEFAULT_UPI_ID  = "yourupi@bank"                   # <-- UPI ID
 
