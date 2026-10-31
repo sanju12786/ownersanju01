@@ -15,7 +15,7 @@ import telebot, sqlite3, requests, threading, time, html, urllib.parse
 from telebot import types
 
 # ============================ CONFIG ======================================
-BOT_TOKEN = "8753100894:AAHl401BCF6zA3aM6RYoamit5KUrnlHqR1Y"   # <-- BOT TOKEN
+BOT_TOKEN = "Y"   # <-- BOT TOKEN
 
 # SUPER ADMIN CHAT IDs (each of these can open the admin panel)
 ADMIN_IDS = [
