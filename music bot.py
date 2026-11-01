@@ -27,7 +27,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 ADMIN_IDS = {8244241281, 5574675470}
 ADMIN_IDS |= {int(x.strip()) for x in os.getenv("ADMIN_IDS", "").split(",") if x.strip().isdigit()}
 
-API_BASE = os.getenv("API_BASE", "https://music-api-2-production.up.railway.app").rstrip("/")
+API_BASE = os.getenv("API_BASE", "https://music-api-2-production-1d61.up.railway.app").rstrip("/")
 
 # Owner + force-join channel
 OWNER_USERNAME = "@thehiddenreserve"
